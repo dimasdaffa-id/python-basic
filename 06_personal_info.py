@@ -1,0 +1,11 @@
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+height = float(input("How tall are you in meters? "))
+goal = input("What is your career goal in future? ")
+
+print("Personal Information")
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Career Goal:", goal)
+print("Age in 3 years:", age + 3)
